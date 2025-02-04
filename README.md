@@ -40,7 +40,7 @@ Install Power BI Desktop
 
 - Clone this repository:
 
-- git clone https://github.com/mandisa-galetuke/real-estate-dashboard.git
+- git clone https://github.com/MandisaGaletuke/real-estate-dashboard.git
 
 - Open the Power BI (.pbix) file in Power BI Desktop.
 
